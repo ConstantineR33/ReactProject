@@ -1,0 +1,12 @@
+.avaDisctiption{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+}
+
+.disctiption{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+}

@@ -1,0 +1,25 @@
+.item{
+    color: green;
+}
+
+.item img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.likeDislike{
+    color: black;
+    height: 5px;
+    width: 10px;
+}
+
+.likeDislike img{
+    width: 45px;
+    height: 45px;
+    opacity: 0.9;
+}
+
+.hover:likeDislike img{
+  opacity: 1;
+}
